@@ -1,0 +1,14 @@
+{
+  "name": "github-basarim-kontrolu",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Read-only public GitHub achievements and repository milestone checker.",
+  "scripts": {
+    "check": "node badge-check.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
