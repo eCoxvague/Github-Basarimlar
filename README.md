@@ -35,7 +35,7 @@ Starstruck | ![Starstruck Badge](https://github.com/kriptodostu/github-profile-a
 ||| <!-- this empty row is intentional to separate -->
 Galaxy Brain | ![Galaxy Brain Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/galaxy-brain-default.png) | ✔️ | 2 Tane Onaylanmış Cevap
 Pull Shark | ![Pull Shark Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/pull-shark-default.png) | ✔️ | 2 Pull Request Oluşturdun ve Kabul edildi.
-YOLO | ![YOLO Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/yolo-default.png) | ✔️ | Kendi Reponuza, Pull Requesti inceleyecek birini atayın ve pull request oluşturun.
+YOLO | ![YOLO Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/yolo-default.png) | ✔️ | Bir pull request'i kod incelemesi (review) olmadan merge edin. Kendi reponuzdaki PR da kullanılabilir.
 ||| <!-- this empty row is intentional to separate -->
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
@@ -185,43 +185,16 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   </details>
   
   <details>
-  <summary> <h1> 5.)Yolo Başarımı </summary> </h1>
-  
-  ## Bu rozet için oluşturduğunuz repoya bir kullanıcı atayacaksınız, sonrasında pull request oluşturup inceleyen olarak eklediğiniz kişiyi seçeceksiniz.
-  
-  # Profilinize gidin ve yeni repo oluşturun
-  
-  ![image](https://user-images.githubusercontent.com/76253089/206999008-3cb99795-dffa-4236-9115-ab71acd12304.png)
+  <summary><h1>5.) YOLO Başarımı</h1></summary>
 
-  # Açılan ekranda aşağıdaki ayarların aynısını yapın ve create tusuna basın.
-  
-  ![image](https://user-images.githubusercontent.com/76253089/206999222-87cea311-54c4-4a44-b89f-89c458e5e633.png)
+YOLO, bir pull request'in kod incelemesi (review) olmadan merge edilmesiyle ilişkilidir. Kendi reponuzdaki bir PR üzerinden ilerleyebilirsiniz.
 
-  # Sırasıyla işaretlediğim yerlere basın
-  
-  ![image](https://user-images.githubusercontent.com/76253089/206999890-4b4f2e6b-4b78-4ab3-9a72-64991da12236.png)
-  
-  # E posta adresimi yazmanız gerekiyor, bu işlem beni sizin reponuzda değişiklik yapabilmemi sağlıyor.
-  
-  ```
-  kriptodostu@gmail.com
-  ```
-  
-![image](https://user-images.githubusercontent.com/76253089/207000155-15560761-0330-40d4-8435-058105bd2b11.png)
+1. Kendi reponuzda küçük ve anlamlı bir düzeltme hazırlayın.
+2. Değişikliği yeni bir branch'e commit edin ve **Pull requests → New pull request** ile PR açın.
+3. **Base repository** ve **head repository** alanlarının kendi reponuzu gösterdiğini kontrol edin. Özellikle fork kullanıyorsanız, PR'ı yanlışlıkla kaynak projeye göndermeyin.
+4. Diff'i ve varsa otomatik kontrolleri kontrol edin. Bu işlem için başka bir kullanıcıyı collaborator veya reviewer olarak eklemeniz gerekmez.
+5. Repo kuralları izin veriyorsa, review yapılmadan **Merge pull request → Confirm merge** ile PR'ı birleştirin. Zorunlu inceleme kurallarını rozet için kapatmayın.
 
-  ## Sonra reponuza geri dönün ve kalem butonuna basıp reponuzu düzenleyin. Herhangi bi yere nokta koyun ve aşağı çekin pull request oluşturun.
+Rozetin görünmesi hemen gerçekleşmeyebilir. GitHub, Achievements özelliğinin değişebileceğini belirtir: [GitHub profil ve Achievements dokümanı](https://docs.github.com/en/account-and-profile/reference/profile-reference#earning-achievements).
 
-  ![image](https://user-images.githubusercontent.com/76253089/207000489-86a95a57-7a00-4c70-82dd-8e4da473c7f1.png)
-
-  ## Açılan sayfada sağda Reviewers kısmı var beni oraya ekleyin ve create pull requeste basın 
-  
-  ![image](https://user-images.githubusercontent.com/76253089/207000717-c030e1f1-52f6-4163-b6ce-692463e22af4.png)
-
-  ## Repo sizin olduğu için pull requesti direk merge ederek onaylayabiliyorsunuz. İşlem bu kadardı
-
-  ![image](https://user-images.githubusercontent.com/76253089/207000883-4ac00127-f57e-440f-9d05-02ba2f404fe9.png)
-
-  ## Dikkat, reviewers kısmında gözükmüyorsam muhtemelen isteğinizi onaylamamışımdır. Bana telegramdan github kullanıcı adınızı iletin Telegramım @enzifiri
-
-
-    </details>
+</details>
